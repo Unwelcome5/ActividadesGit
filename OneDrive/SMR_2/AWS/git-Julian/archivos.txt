@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Prueba practica
 Agregamos una nueva línea en la rama 'rama-2'.
+=======
+archivo de prueba
+Agregamos una nueva línea en la rama 'rama-2'.
+Agregamos una línea en la rama 'rama-3'.
+>>>>>>> rama-3
