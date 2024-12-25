@@ -1,0 +1,2 @@
+Prueba practica
+Agregamos una nueva línea en la rama 'rama-2'.
